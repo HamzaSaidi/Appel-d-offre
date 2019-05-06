@@ -1,0 +1,4 @@
+Enitities\Canditature.class
+Enitities\AppelDoffre.class
+Service\AppelDoffreEJB.class
+ServiceInterface\AppelDoffreRemote.class
